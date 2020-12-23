@@ -1,3 +1,4 @@
+function systemsearch () 
 {
 "############################"
 "welcome to process and service checker"
